@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naboo1120
+- 👋 Hi, I’m Ian Hathorn
 - 👀 I’m interested in Coding in multiple languages and server admin, with PC hardware assembly 
 - 🌱 I’m currently learning in my senior year at Western Illinois University with CS major in Cyber Security 
 - 📫 How to reach me: Email: IanHathorn@gmail.com
